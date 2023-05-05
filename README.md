@@ -1,2 +1,2 @@
-# encriptador-cesar
-Encriptador de cadenas de texto tipo césar
+# caesar-cipher
+cipher for strings
